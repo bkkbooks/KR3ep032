@@ -1,0 +1,175 @@
+canonical_identifier: bkk:krp/KR3ep032/v1
+canonical_location: https://kanripo.org/bkk/KR3ep032/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 素圃醫案
+  identifiers:
+    krp: KR3ep032
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep032.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep032_000.yaml, hash: 'sha256:8a9b29a158614fc70db50400ff83286753c65769b81ded807532964ff41cb2bc'}
+  - {seq: 1, filename: KR3ep032_001.yaml, hash: 'sha256:e6afc8e2df4069aa43e78f8914e1491ad6e6c8ad1513e2d964d5c1b6cdb3d468'}
+  - {seq: 2, filename: KR3ep032_002.yaml, hash: 'sha256:825991b02e6a25bde90e8d5ced3b700d968176ea77f614a095ae6a1a9593887d'}
+  - {seq: 3, filename: KR3ep032_003.yaml, hash: 'sha256:fd6c53e5d48058e32dc02abe56b05b391e0dee0d5f2cfe3fef33ffcd23290e7e'}
+  - {seq: 4, filename: KR3ep032_004.yaml, hash: 'sha256:84015e9b8516dcf7c44f245d9973d9e49f9936f7377a044a68150c91ae876309'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep032_000.markers.yaml, hash: 'sha256:d1772fe5723dfb60d011d72035c7eec3382c9656e66d298b9fcd00b614b46aab'}
+  - {seq: 1, role: markers, filename: assets/KR3ep032_001.markers.yaml, hash: 'sha256:e661e0808d0b33ba41bafa63082f49e851305814680c39a3f1b15975480d20df'}
+  - {seq: 2, role: markers, filename: assets/KR3ep032_002.markers.yaml, hash: 'sha256:0ab7b15fe0427d2d93fe0ea2151d553804d0e46786b2487f7b226f8bd6dcdc36'}
+  - {seq: 3, role: markers, filename: assets/KR3ep032_003.markers.yaml, hash: 'sha256:6aaddf681c696ce42a66f0a18ef93da45c2c479da53c0701358b6ee865113d1a'}
+  - {seq: 4, role: markers, filename: assets/KR3ep032_004.markers.yaml, hash: 'sha256:93e21a887d5ac78c76538e62f97a2982420bdc8bda5c71b00f37c0ea5433715a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep032_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 1148
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep032_jc_000-d3.h1s1
+    span:
+    - front
+    - 1148
+    - 1705
+  label: 醫案自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep032_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 15724
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep032_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 15724
+  label: 傷寒治效
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep032_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 8714
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep032_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 2563
+  label: 暑證治效
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep032_jc_002-d5d3
+    span:
+    - body
+    - 2563
+    - 6819
+  label: 瘧疾治效
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep032_jc_002-d5d4
+    span:
+    - body
+    - 6819
+    - 8714
+  label: 痢疾治效
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep032_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 11734
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep032_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 2195
+  label: 諸中證治效
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep032_jc_003-d6d3
+    span:
+    - body
+    - 2195
+    - 11734
+  label: 男病治效
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep032_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 16584
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ep032_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 9604
+  label: 女病治效
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep032_jc_004-d7d3
+    span:
+    - body
+    - 9604
+    - 16584
+  label: 胎產治效
+  type: section
+  level: 2
+hash: sha256:412b0244149800166554b23cf07c6e6560e4761e216e4ab78ba343b8086212ea
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

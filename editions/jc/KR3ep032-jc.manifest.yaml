@@ -1,0 +1,172 @@
+canonical_identifier: bkk:krp/KR3ep032/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep032/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 素圃醫案
+  identifiers:
+    krp: KR3ep032
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep032.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep032_000-jc.yaml, hash: 'sha256:168319965c25bd8b876092f4e19d2530a6822385794e00d065ec0d182b7615f2'}
+  - {seq: 1, filename: KR3ep032_001-jc.yaml, hash: 'sha256:9f2850d5889509c11ffe29bfd06c8a2af312fd5489599e48c8d7e46f4ae71b7f'}
+  - {seq: 2, filename: KR3ep032_002-jc.yaml, hash: 'sha256:f75ef9f3687acf91f48bfd28ebe7dc67b5aba6c79e6221d19907aec0b46060ab'}
+  - {seq: 3, filename: KR3ep032_003-jc.yaml, hash: 'sha256:63a1318bbe3c1423b2eda6088903538e2b3a2e0a9885575bc8ab2124f294e288'}
+  - {seq: 4, filename: KR3ep032_004-jc.yaml, hash: 'sha256:e85c76dca63d00b04c070ab467c07a7a9be8285545c9fabdf05c941da66e8478'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep032_000-jc.markers.yaml, hash: 'sha256:12e88a0cd0d36981588135a7a55f64ab437102750749d7bf334181c1d6dbbac4'}
+  - {seq: 1, role: markers, filename: assets/KR3ep032_001-jc.markers.yaml, hash: 'sha256:94006026b13fac582d92511daab865376e2c122a07ea2eb9a31151d244dfb599'}
+  - {seq: 2, role: markers, filename: assets/KR3ep032_002-jc.markers.yaml, hash: 'sha256:0383e581bf8fb2d3f80ad6d8ea5889d49b6efca0c2e2f308934eae155e82d839'}
+  - {seq: 3, role: markers, filename: assets/KR3ep032_003-jc.markers.yaml, hash: 'sha256:4aa68396a0eaa36242e11dbdc316709e2d9580a8e334a22b3e3163f05a513cd7'}
+  - {seq: 4, role: markers, filename: assets/KR3ep032_004-jc.markers.yaml, hash: 'sha256:be8db45aa12e086ed9532e0544227348fa6dca5d823d82f41be65da6f0367394'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep032_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 1148
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep032_jc_000-d3.h1s1
+    span:
+    - front
+    - 1148
+    - 1705
+  label: 醫案自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep032_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 15724
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep032_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 15724
+  label: 傷寒治效
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep032_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 8714
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep032_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 2563
+  label: 暑證治效
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep032_jc_002-d5d3
+    span:
+    - body
+    - 2563
+    - 6819
+  label: 瘧疾治效
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep032_jc_002-d5d4
+    span:
+    - body
+    - 6819
+    - 8714
+  label: 痢疾治效
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep032_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 11734
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep032_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 2195
+  label: 諸中證治效
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep032_jc_003-d6d3
+    span:
+    - body
+    - 2195
+    - 11734
+  label: 男病治效
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep032_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 16584
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ep032_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 9604
+  label: 女病治效
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep032_jc_004-d7d3
+    span:
+    - body
+    - 9604
+    - 16584
+  label: 胎產治效
+  type: section
+  level: 2
+hash: sha256:4253f05aada21fe33dd526279e5415f2b551d1df84f4a7aab36bc12e435fd6dd
