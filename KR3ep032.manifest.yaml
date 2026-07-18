@@ -23,8 +23,8 @@ assets:
   - {seq: 3, filename: KR3ep032_003.yaml, hash: 'sha256:9c3946aa281172b191bd4f00e5ce55793943a6435c7af07bb9baee02f548b697'}
   - {seq: 4, filename: KR3ep032_004.yaml, hash: 'sha256:2efdf83c90485f88d23414f9e360d5519cdbef1c5d4944218f7a892ed4357e32'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep032_000.markers.yaml, hash: 'sha256:c397fa564267700e375675a4f3014f0e7204c6850e1407346980b52d4505cb69'}
-  - {seq: 1, role: markers, filename: assets/KR3ep032_001.markers.yaml, hash: 'sha256:3c1bf996a075c0a1574dbc4e29420d30987a1909ef520c916d57fcff50b5a71e'}
+  - {seq: 0, role: markers, filename: assets/KR3ep032_000.markers.yaml, hash: 'sha256:6a95ee5a9b960991f405a5184990840f355dd1ee74b86b3bb2c5e3fd5c1646e5'}
+  - {seq: 1, role: markers, filename: assets/KR3ep032_001.markers.yaml, hash: 'sha256:aea5ec86877b8fba6bb8ec8288754e4a056f47bbb0cc2a7cf96e82f39dcd75eb'}
   - {seq: 2, role: markers, filename: assets/KR3ep032_002.markers.yaml, hash: 'sha256:7fa8d026210f921f40cac61842bf390725b85e94ad46c45d636d8c3409c2ef9a'}
   - {seq: 3, role: markers, filename: assets/KR3ep032_003.markers.yaml, hash: 'sha256:b102d22f0b8b0d5e3f3c9e5def6b218a32243ee0554ebef735dc30d4d96a6806'}
   - {seq: 4, role: markers, filename: assets/KR3ep032_004.markers.yaml, hash: 'sha256:1909910876217f16b26f841122a77231f4e8b67726d4a636589758ca23b6ae60'}
@@ -169,7 +169,7 @@ table_of_contents:
   label: 胎產治效
   type: section
   level: 2
-hash: sha256:cfe80ca052f14fdec3530c3572ce9676c8a03680daa75826f00493f249ad7e03
+hash: sha256:0dc989eceeeb7ef3e095b479eba57562ada196310aebdefb725fde3e174faba9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
