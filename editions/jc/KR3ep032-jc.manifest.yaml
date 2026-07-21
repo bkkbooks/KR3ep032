@@ -17,13 +17,13 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ep032_000-jc.yaml, hash: 'sha256:168319965c25bd8b876092f4e19d2530a6822385794e00d065ec0d182b7615f2'}
+  - {seq: 0, filename: KR3ep032_000-jc.yaml, hash: 'sha256:30a29286538afa2a127e6adde4bbb9fdcded959f758c34044ad9fe731e9a4588'}
   - {seq: 1, filename: KR3ep032_001-jc.yaml, hash: 'sha256:9f2850d5889509c11ffe29bfd06c8a2af312fd5489599e48c8d7e46f4ae71b7f'}
   - {seq: 2, filename: KR3ep032_002-jc.yaml, hash: 'sha256:f75ef9f3687acf91f48bfd28ebe7dc67b5aba6c79e6221d19907aec0b46060ab'}
   - {seq: 3, filename: KR3ep032_003-jc.yaml, hash: 'sha256:63a1318bbe3c1423b2eda6088903538e2b3a2e0a9885575bc8ab2124f294e288'}
   - {seq: 4, filename: KR3ep032_004-jc.yaml, hash: 'sha256:e85c76dca63d00b04c070ab467c07a7a9be8285545c9fabdf05c941da66e8478'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep032_000-jc.markers.yaml, hash: 'sha256:7cefc12d0a5e7b86a80297ad57896f1f25c58dd1c935a6606166ca02b8d40386'}
+  - {seq: 0, role: markers, filename: assets/KR3ep032_000-jc.markers.yaml, hash: 'sha256:6a3974db28d5bdbed5537651443a69083a7d8f34379dc8bf961a7861db95cb9b'}
   - {seq: 1, role: markers, filename: assets/KR3ep032_001-jc.markers.yaml, hash: 'sha256:53f9a44c76041ee3f7d82860e6745c949082ac2f09f9109f7f332853ce50fee8'}
   - {seq: 2, role: markers, filename: assets/KR3ep032_002-jc.markers.yaml, hash: 'sha256:0383e581bf8fb2d3f80ad6d8ea5889d49b6efca0c2e2f308934eae155e82d839'}
   - {seq: 3, role: markers, filename: assets/KR3ep032_003-jc.markers.yaml, hash: 'sha256:4aa68396a0eaa36242e11dbdc316709e2d9580a8e334a22b3e3163f05a513cd7'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep032_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 1148
   label: 序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep032_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 1148
     - 1705
   label: 醫案自序
@@ -169,4 +169,4 @@ table_of_contents:
   label: 胎產治效
   type: section
   level: 2
-hash: sha256:ec7dcd8e35b6e8fc973a2b9e4047d1a18ce36673b85bb8db0289be29a84dfcec
+hash: sha256:46712772e17100124495c40f00c514110348a686f4394a4a4d340eb8d0e8d387

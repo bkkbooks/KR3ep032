@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep032_000.yaml, hash: 'sha256:6b03bfad2c800cccce3d253ce6e1600ecdc34fecc3651f0d3da35ebdc74fec91'}
+  - {seq: 0, filename: KR3ep032_000.yaml, hash: 'sha256:8a9671e5e8b429847ff75f5e14fcfda9bfab5d272a502447a3ce2f5d6a848e18'}
   - {seq: 1, filename: KR3ep032_001.yaml, hash: 'sha256:2c5dc550d7ac66b29fe0da50358ff5fc6def5b33a28d66bbfac724dabea91bbc'}
   - {seq: 2, filename: KR3ep032_002.yaml, hash: 'sha256:083270fedc2528b99e1a44cea6bf5f8adc4ea07c9f1b0e5ab274a88a8699590e'}
   - {seq: 3, filename: KR3ep032_003.yaml, hash: 'sha256:9c3946aa281172b191bd4f00e5ce55793943a6435c7af07bb9baee02f548b697'}
   - {seq: 4, filename: KR3ep032_004.yaml, hash: 'sha256:2efdf83c90485f88d23414f9e360d5519cdbef1c5d4944218f7a892ed4357e32'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep032_000.markers.yaml, hash: 'sha256:6a95ee5a9b960991f405a5184990840f355dd1ee74b86b3bb2c5e3fd5c1646e5'}
+  - {seq: 0, role: markers, filename: assets/KR3ep032_000.markers.yaml, hash: 'sha256:4689a727ed32cefb6926a1c31456d7587d05bd9c2cc97fd97128655d7df2336c'}
   - {seq: 1, role: markers, filename: assets/KR3ep032_001.markers.yaml, hash: 'sha256:aea5ec86877b8fba6bb8ec8288754e4a056f47bbb0cc2a7cf96e82f39dcd75eb'}
   - {seq: 2, role: markers, filename: assets/KR3ep032_002.markers.yaml, hash: 'sha256:7fa8d026210f921f40cac61842bf390725b85e94ad46c45d636d8c3409c2ef9a'}
   - {seq: 3, role: markers, filename: assets/KR3ep032_003.markers.yaml, hash: 'sha256:b102d22f0b8b0d5e3f3c9e5def6b218a32243ee0554ebef735dc30d4d96a6806'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep032_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 1148
   label: 序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep032_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 1148
     - 1705
   label: 醫案自序
@@ -169,7 +169,7 @@ table_of_contents:
   label: 胎產治效
   type: section
   level: 2
-hash: sha256:0dc989eceeeb7ef3e095b479eba57562ada196310aebdefb725fde3e174faba9
+hash: sha256:7d8c495044a03b8ea9334f8d61add7052689015baf2cd0aa47a6c43c1cbdff17
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
